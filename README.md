@@ -9,4 +9,5 @@ This is a simple and responsive "Contact Us" page built using HTML, CSS, and Jav
 - Thank-you message on successful submission
 - Clears form after submit
 - Responsive and styled with CSS
-- 
+
+![Screenshot](screenshot.png)
