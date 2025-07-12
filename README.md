@@ -10,4 +10,4 @@ This is a simple and responsive "Contact Us" page built using HTML, CSS, and Jav
 - Clears form after submit
 - Responsive and styled with CSS
 
-![image url]((https://github.com/Arshathahamed06/Contact-Us/blob/d08b346334adfa35c9a2a5e437649fd2828aaca3/Screenshot%202025-07-12%20234236.png))
+![image alt](https://github.com/Arshathahamed06/Contact-Us/blob/d08b346334adfa35c9a2a5e437649fd2828aaca3/Screenshot%202025-07-12%20234236.png)
