@@ -17,12 +17,9 @@ function validateForm() {
     return false;
   }
 
-  // If valid
   thankYouMsg.classList.remove("hidden");
 
-  // Optional: clear the form
   document.getElementById("contactForm").reset();
 
-  // Prevent form from actually submitting (for demo)
   return false;
 }
