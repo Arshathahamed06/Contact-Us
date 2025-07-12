@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Contact Us</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="container">
+    <h2>Contact Us</h2>
+    <form id="contactForm" onsubmit="return validateForm()">
+      <input type="text" id="name" placeholder="Your Name">
+      <input type="email" id="email" placeholder="Your Email">
+      <input type="text" id="subject" placeholder="Subject">
+      <textarea id="message" placeholder="Your Message"></textarea>
+      <button type="submit">Submit</button>
+    </form>
+    <p id="thankYouMsg" class="hidden">Thank you! We'll get back to you soon.</p>
+  </div>
+  <script src="script.js"></script>
+</body>
+</html>
